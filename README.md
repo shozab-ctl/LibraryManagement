@@ -9,14 +9,14 @@ using the project.
 
 - [Project Description](#project-description)
 - [Setup](#setup)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Test the API's](#test the API's)
 
 ## Project Description
 
 The Library Management Project is a demonstration of Java 17 and Spring Boot 3 technologies.
 It encompasses the latest Java features, showcasing the usage of record classes, functional interfaces,
-and lambda expressions.
+and lambda expressions. Unit test cases for the API's are written in Junit 5 and Mockito.
 
 ## Setup
 
@@ -32,5 +32,13 @@ Step 5: Click on Run as Spring Boot Project
 - Gradle
 - Lombok plugin installed in IDE
 - Git
+- Postman
+
+## Test the API's
+
+Download the Postman collection file from the root folder of this project (Library.postman_collection.json). Import it
+in Postman Tool. Run the project. 
+
+
 
 
