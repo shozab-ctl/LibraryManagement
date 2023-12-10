@@ -10,7 +10,7 @@ using the project.
 - [Project Description](#project-description)
 - [Setup](#setup)
 - [Prerequisites](#prerequisites)
-- [Test the API's](#test the API's)
+- [Test the APIs](#testtheAPIs)
 
 ## Project Description
 
