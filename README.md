@@ -11,10 +11,6 @@ using the project.
 - [Setup](#setup)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-- [Usage](#usage)
-- [Java 17 Features](#java-17-features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
@@ -24,18 +20,17 @@ and lambda expressions.
 
 ## Setup
 
-Step 1: Clone git repository using command
+Step 1: Clone git repository using command (git clone https://github.com/shozab-ctl/LibraryManagement.git)
+Step 2: Extract the project files in a working directory
+Step 3: Open STS or intelliJ
+Step 4: Gradle import project for STS / directly open project in intelliJ
+Step 5: Click on Run as Spring Boot Project
 
-### Prerequisites
+## Prerequisites
 
-List any prerequisites that users need to have installed before they can use your project. Include things like
-programming language versions, tools, or libraries.
+- JDK 17
+- Gradle
+- Lombok plugin installed in IDE
+- Git
 
-### Installation
 
-Provide step-by-step instructions on how to set up your project.
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-project.git
